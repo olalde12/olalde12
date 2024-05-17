@@ -2,9 +2,13 @@
 
 Soy alguien que tiene una profunda pasión por el aprendizaje y me entusiasma especialmente en el mundo de la programación. Actualmente, estoy estudiando Ingenieria en computación y un curso llamado Mujer Digital.
 
+---
+
 ### 📝 Sobre mí
 Me caracterizo por ser una persona altamente organizada y responsable.  Durante mi etapa en la preparatoria, tuve la oportunidad de ser estudiante dual en la reconocida empresa Robert Bosch, donde adquirí valiosos
 conocimientos en el campo de la programación. Además, actualmente me dedico a estudiar inglés como parte de mi crecimiento personal y profesional.
+
+---
 
 ### 🚀 Habilidades y Tecnologías
 [![My Skills](https://skillicons.dev/icons?i=java,c,html,css,git,gitlab,github)](https://skillicons.dev)
