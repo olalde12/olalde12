@@ -17,8 +17,8 @@ conocimientos en el campo de la programación. Además, actualmente me dedico a 
 
 ### 🎓 Educación y Certificaciones
 
-  - **Desarrollo de software/sistema y aplicaciones infórmaticas**
-  - Institución: Cámara mexicano alemana de comercio e industria, A.C.
+  - **Desarrollo de software/sistema y aplicaciones informáticas**
+  - Institución: Cámara Mexicano-Alemana de Comercio e Industria, A.C.
   - Año: 2023
 
 ---
