@@ -1,4 +1,46 @@
-### Hi there 👋
+###👋 ¡Hola! Soy Belen Olalde 
+
+Soy alguien que tiene una profunda pasión por el aprendizaje y me entusiasma especialmente en el mundo de la programación. Actualmente, estoy estudiando Ingenieria en computación y un curso llamado Mujer Digital.
+
+### 📝 Sobre mí
+Me caracterizo por ser una persona altamente organizada y responsable.  Durante mi etapa en la preparatoria, tuve la oportunidad de ser estudiante dual en la reconocida empresa Robert Bosch, donde adquirí valiosos
+conocimientos en el campo de la programación. Además, actualmente me dedico a estudiar inglés como parte de mi crecimiento personal y profesional.
+
+### 🚀 Habilidades y Tecnologías
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- **Lenguajes:**
+- Java
+- C
+
+- **Desarrollo de Front-End:**
+- Css
+- HTML
+
+- **Bases de Datos:**
+- PostgreSQL
+
+- **Herramientas:**
+- Git & GitHub
+
+---
+
+### 🎓 Educación y Certificaciones
+
+  - **Desarrollo de software/sistema y aplicaciones infórmaticas**
+  - Institución: Cámara mexicano alemana de comercio e industria, A.C.
+  - Año: 2023
+
+---
+
+### 📫 Contacto
+
+- **Correo Electrónico:** belenolalde28@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/belen-olalde-10a7aa300/
+- **GitHub:** https://github.com/olalde12
+
+---
+
+Gracias por visitar mi perfil. ¡Hablemos pronto!
 
 <!--
 **olalde12/olalde12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
