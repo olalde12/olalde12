@@ -13,6 +13,8 @@ conocimientos en el campo de la programación. Además, actualmente me dedico a 
 ### 🚀 Habilidades y Tecnologías
 [![My Skills](https://skillicons.dev/icons?i=java,c,html,css,git,gitlab,github)](https://skillicons.dev)
 
+---
+
 ### 🎓 Educación y Certificaciones
 
   - **Desarrollo de software/sistema y aplicaciones infórmaticas**
