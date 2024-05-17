@@ -1,4 +1,4 @@
-###👋 ¡Hola! Soy Belen Olalde 
+### 👋 ¡Hola! Soy Belen Olalde 
 
 Soy alguien que tiene una profunda pasión por el aprendizaje y me entusiasma especialmente en el mundo de la programación. Actualmente, estoy estudiando Ingenieria en computación y un curso llamado Mujer Digital.
 
@@ -7,22 +7,7 @@ Me caracterizo por ser una persona altamente organizada y responsable.  Durante 
 conocimientos en el campo de la programación. Además, actualmente me dedico a estudiar inglés como parte de mi crecimiento personal y profesional.
 
 ### 🚀 Habilidades y Tecnologías
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-- **Lenguajes:**
-- Java
-- C
-
-- **Desarrollo de Front-End:**
-- Css
-- HTML
-
-- **Bases de Datos:**
-- PostgreSQL
-
-- **Herramientas:**
-- Git & GitHub
-
----
+[![My Skills](https://skillicons.dev/icons?i=java,c,html,css,git,gitlab,github)](https://skillicons.dev)
 
 ### 🎓 Educación y Certificaciones
 
